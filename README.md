@@ -165,7 +165,7 @@ vue-notus
 │   ├── layouts
 │   │   ├── Admin.vue
 │   │   └── Auth.vue
-│   ├── main.js
+│   ├── main.ts
 │   └── views
 │       ├── Index.vue
 │       ├── Landing.vue
