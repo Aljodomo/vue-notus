@@ -28,29 +28,17 @@
         id="example-navbar-warning"
       >
         <ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
-          <li class="flex items-center">
-            <a
-              class="lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdemos.creative-tim.com%2Fvue-notus%2F%23%2F"
-              target="_blank"
-            >
-              <i
-                class="lg:text-blueGray-200 text-blueGray-400 fab fa-facebook text-lg leading-lg"
-              />
-              <span class="lg:hidden inline-block ml-2">Share</span>
-            </a>
-          </li>
 
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fvue-notus%2F%23%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwind%20CSS%20and%20VueJS%20UI%20Kit%20and%20Admin.%20Let%20Vue%20Notus%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level.%20"
+              href="https://www.instagram.com/25past4"
               target="_blank"
             >
               <i
-                class="lg:text-blueGray-200 text-blueGray-400 fab fa-twitter text-lg leading-lg"
+                class="lg:text-blueGray-200 text-blueGray-400 fab fa-instagram text-lg leading-lg"
               />
-              <span class="lg:hidden inline-block ml-2">Tweet</span>
+              <span class="lg:hidden inline-block ml-2">Insta</span>
             </a>
           </li>
 
@@ -63,7 +51,7 @@
                   <i
                       class="lg:text-blueGray-200 text-blueGray-400 fab fa-github text-lg leading-lg"
                   />
-                  <span class="lg:hidden inline-block ml-2">Star</span>
+                  <span class="lg:hidden inline-block ml-2">GitHub</span>
               </a>
           </li>
         </ul>

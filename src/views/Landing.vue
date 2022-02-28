@@ -20,13 +20,13 @@
         <div class="container relative mx-auto">
           <div class="items-center flex flex-wrap">
             <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
-              <div class="pr-12">
-                <h1 class="text-white font-semibold text-5xl">
-                    Nichts für dich!
-                </h1>
-                <p class="mt-4 text-lg text-blueGray-200">
-                    Auf dieser Webseite gibt es nichts sinnvolles zu sehen aber einen Blick ist sie trotzdem Wert.
-                </p>
+              <div>
+                  <h1 class="text-white font-semibold text-5xl">
+                      hey
+                  </h1>
+                  <p class="mt-4 text-lg text-blueGray-200">
+                      Auf dieser Webseite gibt es nichts sinnvolles zu sehen aber einen Blick ist sie trotzdem Wert.
+                  </p>
               </div>
             </div>
           </div>
@@ -121,16 +121,16 @@
                   Diese Seite befindet sich im Aufbau
               </h3>
               <p
-                class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
+                  class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
               >
                   Das was du hier siehst ist erst der Anfang.
                   In Zukunft wird es hier alles mögliche geben ob zum anschauen oder ausprobieren.
               </p>
-              <p
-                class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
-              >
-                  Bis dahin bleiben sie gespannt und schauen sie bald nochmal vorbei.
-              </p>
+                <p
+                    class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
+                >
+                    Bis dahin bleiben sie gespannt und schauen sie bald nochmal vorbei.
+                </p>
             </div>
 
             <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -175,6 +175,4 @@
 import Navbar from "@/components/Navbars/AuthNavbar.vue";
 import FooterComponent from "@/components/Footers/FooterSmall.vue";
 import imgOfMe from "@/assets/img/ezgif-2-744c1acd63.webp";
-import girls from "@/assets/img/ezgif-2-4fc36ed3ab.webp";
-
-</script>
+import girls from "@/assets/img/ezgif-2-4fc36ed3ab.webp";</script>
