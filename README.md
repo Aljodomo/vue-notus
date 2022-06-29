@@ -179,7 +179,7 @@ vue-notus
 │           ├── Login.vue
 │           └── Register.vue
 ├── tailwind.config.js
-└── vue.config.js
+└── vite.config.js
 ```
 
 ## Browser Support
